@@ -57,7 +57,7 @@
             <mxPoint x="625" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_fE73MnJN0gG7Z1eROa-14" value="Справочная информация по заключенным договорам" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="c_fE73MnJN0gG7Z1eROa-14" value="Справочная информация по договорам" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="25" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="c_fE73MnJN0gG7Z1eROa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_fE73MnJN0gG7Z1eROa-15">
