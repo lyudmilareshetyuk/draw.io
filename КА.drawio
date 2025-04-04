@@ -98,6 +98,20 @@
         <mxCell id="p0av2jwLTRedCg7sPQxk-60" value="]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="378" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="p0av2jwLTRedCg7sPQxk-61" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.04;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p0av2jwLTRedCg7sPQxk-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="313" />
+              <mxPoint x="520" y="305" />
+              <mxPoint x="510" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0av2jwLTRedCg7sPQxk-62" value="_|_" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
