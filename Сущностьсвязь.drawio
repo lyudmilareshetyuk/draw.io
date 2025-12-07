@@ -263,22 +263,22 @@
         <mxCell id="KKY-311Wl1hNutwyaJ-7-84" parent="KKY-311Wl1hNutwyaJ-7-80" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Должность" vertex="1">
           <mxGeometry height="30" width="160" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="KKY-311Wl1hNutwyaJ-7-86" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Дополнительные&#xa;соглашения" vertex="1">
-          <mxGeometry height="144" width="160" x="-300" y="750" as="geometry">
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-86" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Дополнительные&#xa;соглашения" vertex="1">
+          <mxGeometry height="154" width="160" x="-300" y="750" as="geometry">
             <mxRectangle height="30" width="110" x="70" y="750" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-87" parent="KKY-311Wl1hNutwyaJ-7-86" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Номер допсоглашения" vertex="1">
-          <mxGeometry height="30" width="160" y="30" as="geometry" />
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-88" parent="KKY-311Wl1hNutwyaJ-7-86" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Дата допсоглашения" vertex="1">
-          <mxGeometry height="30" width="160" y="60" as="geometry" />
+          <mxGeometry height="30" width="160" y="70" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-89" parent="KKY-311Wl1hNutwyaJ-7-86" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="ФИО сотрудника" vertex="1">
-          <mxGeometry height="24" width="160" y="90" as="geometry" />
+          <mxGeometry height="24" width="160" y="100" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-90" parent="KKY-311Wl1hNutwyaJ-7-86" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Должность" vertex="1">
-          <mxGeometry height="30" width="160" y="114" as="geometry" />
+          <mxGeometry height="30" width="160" y="124" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-91" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Медицинские комиссии" vertex="1">
           <mxGeometry height="204" width="160" x="-120" y="590" as="geometry">
@@ -322,6 +322,137 @@
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-104" parent="KKY-311Wl1hNutwyaJ-7-98" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Сведения о ранее выданных заключениях" vertex="1">
           <mxGeometry height="46" width="160" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-105" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Паспортные данные" vertex="1">
+          <mxGeometry height="430" width="160" x="220" y="590" as="geometry">
+            <mxRectangle height="30" width="110" x="70" y="750" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-106" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Фамилия" vertex="1">
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-107" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Имя" vertex="1">
+          <mxGeometry height="24" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-108" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Отчество" vertex="1">
+          <mxGeometry height="30" width="160" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-109" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Серия и номер паспорта" vertex="1">
+          <mxGeometry height="30" width="160" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-110" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Дата выдачи паспорта" vertex="1">
+          <mxGeometry height="26" width="160" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-111" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Кем и когда выдан паспорт" vertex="1">
+          <mxGeometry height="40" width="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-112" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Адрес места жительства" vertex="1">
+          <mxGeometry height="34" width="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-113" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Дата регистрации" vertex="1">
+          <mxGeometry height="28" width="160" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-114" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Семейное положение" vertex="1">
+          <mxGeometry height="28" width="160" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-115" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Количество несовершеннолетних детей" vertex="1">
+          <mxGeometry height="50" width="160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-116" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Статус военообязанного" vertex="1">
+          <mxGeometry height="28" width="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-117" parent="KKY-311Wl1hNutwyaJ-7-105" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Сведения о ранее выданных паспортах" vertex="1">
+          <mxGeometry height="42" width="160" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-118" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Образование" vertex="1">
+          <mxGeometry height="410" width="160" x="220" y="1040" as="geometry">
+            <mxRectangle height="30" width="110" x="70" y="750" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-119" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Фамилия" vertex="1">
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-120" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Имя" vertex="1">
+          <mxGeometry height="24" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-121" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Отчество" vertex="1">
+          <mxGeometry height="30" width="160" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-122" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Уровень образования" vertex="1">
+          <mxGeometry height="30" width="160" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-123" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Учебное заведение" vertex="1">
+          <mxGeometry height="26" width="160" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-124" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Наименование документа об образовании" vertex="1">
+          <mxGeometry height="40" width="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-125" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Серия документа" vertex="1">
+          <mxGeometry height="34" width="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-126" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Номер документа" vertex="1">
+          <mxGeometry height="28" width="160" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-127" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Год окончания" vertex="1">
+          <mxGeometry height="28" width="160" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-128" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Квалификация" vertex="1">
+          <mxGeometry height="30" width="160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-129" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Направление/специальность" vertex="1">
+          <mxGeometry height="40" width="160" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-130" parent="KKY-311Wl1hNutwyaJ-7-118" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Профессия" vertex="1">
+          <mxGeometry height="30" width="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-131" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Трудовая книжка" vertex="1">
+          <mxGeometry height="180" width="160" x="390" y="1040" as="geometry">
+            <mxRectangle height="30" width="110" x="70" y="750" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-132" parent="KKY-311Wl1hNutwyaJ-7-131" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Фамилия" vertex="1">
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-133" parent="KKY-311Wl1hNutwyaJ-7-131" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Имя" vertex="1">
+          <mxGeometry height="24" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-134" parent="KKY-311Wl1hNutwyaJ-7-131" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Отчество" vertex="1">
+          <mxGeometry height="30" width="160" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-135" parent="KKY-311Wl1hNutwyaJ-7-131" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Номер трудовой книжки" vertex="1">
+          <mxGeometry height="30" width="160" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-136" parent="KKY-311Wl1hNutwyaJ-7-131" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Дата рождения" vertex="1">
+          <mxGeometry height="26" width="160" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-144" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Воинский учет" vertex="1">
+          <mxGeometry height="276" width="160" x="570" y="1040" as="geometry">
+            <mxRectangle height="30" width="110" x="70" y="750" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-145" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Фамилия" vertex="1">
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-146" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Имя" vertex="1">
+          <mxGeometry height="24" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-147" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Отчество" vertex="1">
+          <mxGeometry height="30" width="160" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-148" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Номер военного билета" vertex="1">
+          <mxGeometry height="30" width="160" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-149" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Дата рождения" vertex="1">
+          <mxGeometry height="26" width="160" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-150" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Категория запаса" vertex="1">
+          <mxGeometry height="30" width="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-151" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Воинское звание" vertex="1">
+          <mxGeometry height="30" width="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-152" parent="KKY-311Wl1hNutwyaJ-7-144" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Категория годности к военной службе" vertex="1">
+          <mxGeometry height="36" width="160" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
