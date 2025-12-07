@@ -8,31 +8,31 @@
           <mxGeometry height="40" width="100" x="180" y="80" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Организационно-распорядительные документы" vertex="1">
-          <mxGeometry height="40" width="100" x="670" y="80" as="geometry" />
+          <mxGeometry height="40" width="110" x="590" y="80" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Трудовые договоры" vertex="1">
-          <mxGeometry height="40" width="100" x="-80" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="80" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Комиссии" vertex="1">
-          <mxGeometry height="40" width="100" x="250" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="240" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Тестирования" vertex="1">
-          <mxGeometry height="40" width="100" x="140" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="-140" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-7" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Аттестации" vertex="1">
-          <mxGeometry height="40" width="100" x="30" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="-30" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Личная карточка сотрудника" vertex="1">
-          <mxGeometry height="40" width="100" x="425" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="430" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-9" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Дополнительные соглашения" vertex="1">
-          <mxGeometry height="40" width="100" x="-70" y="230" as="geometry" />
+          <mxGeometry height="40" width="100" x="80" y="240" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-10" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Медицинские осмотры" vertex="1">
-          <mxGeometry height="40" width="100" x="200" y="240" as="geometry" />
+          <mxGeometry height="40" width="100" x="190" y="240" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-11" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Психосвиде-тельствования" vertex="1">
-          <mxGeometry height="40" width="100" x="310" y="240" as="geometry" />
+          <mxGeometry height="40" width="100" x="300" y="240" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-12" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Паспортные данные" vertex="1">
           <mxGeometry height="40" width="100" x="430" y="220" as="geometry" />
@@ -47,10 +47,112 @@
           <mxGeometry height="40" width="100" x="430" y="370" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-16" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Акты" vertex="1">
-          <mxGeometry height="40" width="100" x="610" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="540" y="150" as="geometry" />
         </mxCell>
         <mxCell id="KKY-311Wl1hNutwyaJ-7-17" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Приказы" vertex="1">
-          <mxGeometry height="40" width="100" x="720" y="150" as="geometry" />
+          <mxGeometry height="40" width="100" x="650" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-18" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-4" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="sourcePoint" />
+            <mxPoint x="260" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-19" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-7" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="310" as="sourcePoint" />
+            <mxPoint x="220" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-20" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-6" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="340" as="sourcePoint" />
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-21" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+            <mxPoint x="480" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-22" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-16" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="90" as="sourcePoint" />
+            <mxPoint x="510" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-23" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-17" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="sourcePoint" />
+            <mxPoint x="210" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="KKY-311Wl1hNutwyaJ-7-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="191" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-25" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-10" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KKY-311Wl1hNutwyaJ-7-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="190" as="sourcePoint" />
+            <mxPoint x="290" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-27" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-28" edge="1" parent="1" source="KKY-311Wl1hNutwyaJ-7-8" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="390" as="sourcePoint" />
+            <mxPoint x="580" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KKY-311Wl1hNutwyaJ-7-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKY-311Wl1hNutwyaJ-7-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
